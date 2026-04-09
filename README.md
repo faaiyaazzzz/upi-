@@ -62,5 +62,9 @@ A real-time UPI transaction fraud detection system powered by Machine Learning (
 
 This project uses a synthetic dataset for demonstration purposes. In a production environment, ensure you use real, anonymized transaction data and secure your API endpoints.
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
 Built with ❤️ for secure digital payments.
